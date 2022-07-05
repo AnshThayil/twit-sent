@@ -1,5 +1,6 @@
 # twit-sent
-An exercise to help familiarise myself with Apache Spark &amp; Scala.
+An exercise to help familiarise myself with Apache Spark, Apache Bahir &amp; Scala.
+A project to extract sentiment from a given Twitter feed.
 
 Make sure to add a `twitter4j.properties` under `src/main/resources` that includes the following information:
 
